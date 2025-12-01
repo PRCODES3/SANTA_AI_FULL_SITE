@@ -1,0 +1,18 @@
+
+body {
+  background:#fff4e6;
+  font-family:sans-serif;
+  margin:0;
+  padding:0;
+  text-align:center;
+}
+.call-btn{
+  padding:20px;
+  background:#d33b3b;
+  color:white;
+  border-radius:12px;
+  font-size:24px;
+  cursor:pointer;
+  border:none;
+}
+h1,h2,h3 { color:#b22222; }
