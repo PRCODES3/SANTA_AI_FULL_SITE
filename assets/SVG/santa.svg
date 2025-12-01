@@ -1,1 +1,7 @@
 
+<svg width='200' height='200'>
+ <circle cx='100' cy='100' r='80' fill='#ffdfc4'/>
+ <circle cx='80' cy='90' r='10' fill='black'/>
+ <circle cx='120' cy='90' r='10' fill='black'/>
+ <circle cx='100' cy='130' r='15' fill='white'/>
+</svg>
